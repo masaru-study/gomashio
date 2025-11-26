@@ -6,7 +6,7 @@
     <br>
 </div>
 <div style="margin-top: 100em;">
-    <p style="font-size: 18px">我々の世代は試し書きとかに、なぜか「橋本環奈」って書く風潮ありますよね。</p>
+    <p style="font-size: 18px">我々の世代は試し書きとかに、なぜか「橋本環奈」って書く文化ありますよね。</p>
 </div>
 
 <a href="Mr_masaru.md">まさる様</a>
